@@ -1,0 +1,23 @@
+PODS:
+  - CoreHTTP (0.1.0)
+  - Kiwi (3.0.0)
+
+DEPENDENCIES:
+  - CoreHTTP (from `../`)
+  - Kiwi
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Kiwi
+
+EXTERNAL SOURCES:
+  CoreHTTP:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CoreHTTP: dfcece2e4095ae6559da0e831e35cdf354c8d76f
+  Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
+
+PODFILE CHECKSUM: 7c040639babad1554cfc5034649ab3cee60489e9
+
+COCOAPODS: 1.6.0.beta.1

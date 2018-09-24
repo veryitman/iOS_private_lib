@@ -1,0 +1,6 @@
+framework module CoreHTTP {
+  umbrella header "CoreHTTP-umbrella.h"
+
+  export *
+  module * { export * }
+}
