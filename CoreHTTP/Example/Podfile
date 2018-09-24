@@ -6,6 +6,6 @@ target 'CoreHTTP_Example' do
   target 'CoreHTTP_Tests' do
     inherit! :search_paths
 
-    pod 'Kiwi'
+    
   end
 end
