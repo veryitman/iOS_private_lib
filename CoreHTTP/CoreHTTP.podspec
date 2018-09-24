@@ -14,6 +14,6 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'CoreHTTP/Classes/**/*'
+  s.source_files = 'CoreHTTP/Classes/*'
   s.requires_arc = true
 end
