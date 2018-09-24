@@ -1,0 +1,5 @@
+use_frameworks!
+
+target 'CoreHTTP_Example' do
+  pod 'CoreHTTP', :path => '../'
+end
