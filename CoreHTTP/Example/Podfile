@@ -2,10 +2,4 @@ use_frameworks!
 
 target 'CoreHTTP_Example' do
   pod 'CoreHTTP', :path => '../'
-
-  target 'CoreHTTP_Tests' do
-    inherit! :search_paths
-
-    
-  end
 end

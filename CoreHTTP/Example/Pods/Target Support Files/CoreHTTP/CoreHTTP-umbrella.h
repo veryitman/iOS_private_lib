@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "CoreHTTPHeader.h"
 
 FOUNDATION_EXPORT double CoreHTTPVersionNumber;
 FOUNDATION_EXPORT const unsigned char CoreHTTPVersionString[];
